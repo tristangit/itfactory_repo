@@ -1,0 +1,1 @@
+Eu ma duc afara daca (este frumos) si (am cu cine)
