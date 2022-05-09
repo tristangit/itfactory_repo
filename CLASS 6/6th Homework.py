@@ -30,7 +30,7 @@
 #         print(f'Cercul {self.culoare} are raza {self.raza}')
 #
 #     def aria(self):
-#         from cmath import pi
+#         no ticket
 #         a = pi * self.raza**2
 #         return a
 #
